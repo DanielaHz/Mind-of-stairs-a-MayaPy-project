@@ -1,6 +1,6 @@
 # Mind of stairs
 
-![image](/images/mind_stairs_cover.jpg)
+![image](/video/maya2.gif)
 
 ## Introduction
 
