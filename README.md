@@ -1,9 +1,6 @@
 # Mind of stairs
 
-<!-- <video width="640" height="480" controls>
-  <source src="/video/Maya_Final_Project.mp4" type="video/mp4">
-</video> -->
-![image](/video/Maya_Final_Project.gif)
+![image](/video/maya.gif)
 
 ## Introduction
 
