@@ -1,6 +1,6 @@
 # Mind of stairs
 
-![image](/video/maya.gif)
+![image](/images/mind_stairs_cover.jpg)
 
 ## Introduction
 
@@ -29,9 +29,13 @@ intersections to pinpoint the location of a point. While the script worked, the 
 cubes I could generate were 0.5 cm³, resulting in a relatively coarse mesh. Below are
 some examples of the head generated using this approach.
 
+![image](/images/voxel_code.jpg)
+
 To improve the results, I switched to Houdini, which offered better tools for managing
 the large number of cubes needed for a detailed voxelized head. Houdini allowed me to
 create a more refined and visually appealing final model, as shown in the image below.
+
+![image](/images/houdini_voxel.jpg)
 
 ## 3. Animation 
 Animating the main ball involved careful planning to ensure smooth transitions between
